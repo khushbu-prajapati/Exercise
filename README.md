@@ -1,4 +1,5 @@
 **Topics Covered**
+
 Loading CSV data using np.genfromtxt()
 NumPy structured arrays and data types
 Indexing, slicing, and reverse indexing
@@ -9,7 +10,9 @@ Sorting, copying, and slicing arrays
 Random sampling using np.random.choice()
 
 **Libraries**
+
 NumPy
 
 **Purpose**
+
 To practice NumPy fundamentals and perform basic rainfall data analysis using real-world data.
