@@ -74,10 +74,10 @@ divide_annual_rainfall = annual_rainfall / 2
 print(f"Divide by 2: {divide_annual_rainfall}")
 
 # 16).Calculate the difference between the rainfall of two selected years.
-rainfall_1901 = annual_rainfall[7]
-rainfall_1902 = annual_rainfall[8] 
+rainfall_1907 = annual_rainfall[7]
+rainfall_1908 = annual_rainfall[8] 
 
-diff = rainfall_1901 - rainfall_1902
+diff = rainfall_1907 - rainfall_1908
 print("Difference:", diff)
 
 # 17).Calculate the average annual rainfall using np.mean().
